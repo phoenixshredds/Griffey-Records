@@ -1,0 +1,12 @@
+#To-do list
+
+[] Build homepage content and structure
+[] Build structure to pages
+    [] Offensive records
+    [] Pitching records
+    [] Team records
+    [] Wall of Fame
+    [] Archives
+    [] Bio
+[] Style site w/ color theme
+[] Style w/ flexbox centered design
