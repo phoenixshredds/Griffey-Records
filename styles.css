@@ -3,7 +3,7 @@ body {
     background-color: rgb(26, 33, 61);
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 1rem;
+    padding: 2rem;
     border: .2em solid navy;
     border-radius: 1rem;
     margin: 0;
@@ -13,6 +13,11 @@ body {
     width: 80%;
     max-width: 800px;
     margin: auto;
+}
+
+ul {
+    padding: 0.5rem;
+    margin-left: 10%;
 }
 
 h2, h3, h4, h5, h6 {
